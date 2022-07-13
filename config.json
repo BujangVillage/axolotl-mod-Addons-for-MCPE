@@ -1,0 +1,228 @@
+{
+  "Config": [
+    {
+      "interval": 2,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": true,
+      "maps": true,
+      "texture": true,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-9730108346595961/8263033594",
+      "admob_banner": "ca-app-pub-9730108346595961/1902305344",
+      "admob_inter": "ca-app-pub-9730108346595961/5649978660",
+      "admob_native": "ca-app-pub-9730108346595961/8945375782",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+     {
+        "name": "More Axolotl Variants",
+        "role": "This addon doubles the cuteness of axolotls by doubling the number of variants they have!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Axolotls/1/enam.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Axolotls/1/more_axolotl_variants.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Axolotls/1/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Axolotls/1/dua.png"
+    }
+  ],
+  "Map": [
+    {
+        "name": "Enhanced Biomes Addon",
+        "role": "From time to time, you need to update the appearance of Minecraft Bedrock so that the game does not bother. But typical tools are sometimes not enough, and standard texture packages and shaders do not give the desired effect. In this case, try the Enhanced Biomes addon! After installing it, each biome in the MCPE game will become better. The spawn of hills, trees, villages and other elements will change and become cooler! The player will have a greater chance of stumbling into hidden, atmospheric villages. And biome landscapes will bewitch the views. In addition, this addon contains shaders that will change the lighting and elaboration of the game world. If you look at the screenshot of Hell, you will understand how much the lighting will change.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/42/delapanpuluhempat_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/42/enhanced_biomes.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/42/delapanpuluhtiga_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/42/empatpuluhdua.png"
+    }
+  ],
+  "Texture": [
+    {
+        "name": "Axolotls Add-on (Resources)",
+        "role": "With this add-on implements your Minecraft a new mob in this case are axolotls, this add-on is a concept of the new mob that will be added in the next update of Minecraft, has behaviors, textures and animations similar to what has been seen in the live Minecraft 03/10/2020.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Axolotls/2/enam.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Axolotls/2/Axolote TexturePack.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Axolotls/2/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Axolotls/2/dua.png"
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/kHcBxTcM0fp8yS8dWPL1KApOb7h8y2MY4Z2amCTZj4myNY_N8tCUBAY0wkIi3kV2hT_9FFTCtXWOI48z9eL325xQNH6pVWnw-w",
+    "view_skin": "https://lh3.googleusercontent.com/QM-JKttHDi1I8ZTpEjvglcqbdDOaiqN0TV8LNqFviG5Y50Y2u4l7hLhypLyXDgpskqFs3ogV0OZQ1SUF8yHF7-1p0CmTZ_Zw4w"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/_Jb0YfLZvn0XlxzZbzASpjE-f4jCcItCf1jToFpQUjN6drhFLZvpdFL_hwqDpXja6SzViGhibmM80Qcl5lzaU6zAeS_v5qxj4_M",
+    "view_skin": "https://lh3.googleusercontent.com/zzaNODCeAbpoaX3iMYPpvefAQ9X6NVFKr5JSONfOogZQ4-qF1V_x8Qaii1pQTUHNuUkIw5g4_L26cKIdwduUOzMAw9rAiQiUzMU"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/RMZx3XWigUcN6AjAdRAba35iMkuuS2aENRuV9e24SJMO3d3ubQgKp6OTdKsIetND9Tb12NIsruWSQP2yxp1AtwLkdrRRxGnads-P",
+    "view_skin": "https://lh3.googleusercontent.com/CCmS-IQrxiEeMlqpQr5Geji2bhJnwy0EEphgPzwDOoUpxh4-3JRYgaf6dRRmUBkw4guLHAPrgQyBPCcgZ5q8yjeKVnWad3PYz5mu"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/XBxYwVzyqgFXnovKnwr5y8FTb811-THu5-dcN2dD_xO71Gp7h-8m2xpVC9zdIY18Qz6FZzcyOPmRVPxSQY5FUPNVNUUealtIOQ",
+    "view_skin": "https://lh3.googleusercontent.com/xGhJPuCTq_evRh-6qWrQgOhVqUFls6E7dMpV4pJztQ8B1s_OKTcyh0GAY27FPwylL3ncsLZVGjxjoYzZIswJ0Jzgx-4yI-L_ZQkV"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/cvSanNdZs5oGXJWq5jT_QTTvHgb8t0nwrDHAaZtRCm4hwf7X9phUaTrK-cEeMu0YHyO8orXlszV6C_5qTbV2PAiIcci4m54Dwuc",
+    "view_skin": "https://lh3.googleusercontent.com/NQNSFyzmk1AdVVwvopu7ZyFgWDo5qKfUuPFJDYfhNLs_xTIYgcVP8OYeBkFEjlRUKEuv8wNovNazBvCnr6_0It07faiOVu4VRoA"
+  },
+  {
+    "id": 6,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/_LIcGe4SVlhoScH9Y98cR6UoqMFuaNs2QQ2JxZ3njRzcD3sB_1YtTPbfM8yYM3IIu4WWUMuX1q7JwrLHmR8fclbGJ4HB3SDjnoIO",
+    "view_skin": "https://lh3.googleusercontent.com/Ni90zCX3M-j-ZER9PEUEi_21UWxvhml98oeBynEv6fIVdicDECALXXfqYTt9gIyZXkP4jNShDlElZOR-Jw3oxkmQf-qNHRMS4g"
+  },
+  {
+    "id": 7,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/AXoEurB9Ko75Kzo5ft6UOTnqz4QJYKHXQDgbZsFRgNJbOhRzzO2bceybwGRhziOOLgLGmhpk_jGEL8XDx1BcbfyYv0Uru6gokWDw",
+    "view_skin": "https://lh3.googleusercontent.com/gdKj9ifzIuZYcI__pG7cZl8bpJWhCjxIr7awHLu1A0u6IjluXgH1ZYzEtKc_cUKz60oMZ7JlbXKVMRvu_i0iFRo4Yi2jAbzlVg"
+  },
+  {
+    "id": 8,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/iAv09VLmOoarU5yx7dL-6gPaI8NWXsKUrsqVJqxgendoi2BVSUUWoM_IAr5xtR-8RJd6ZpebKkC7TQbM_HZGfwp0t6bnZhyBRsfp",
+    "view_skin": "https://lh3.googleusercontent.com/aVJHE8c620N_Pdrk-jV66OvQ8KeJ0etLwVatF4SOSCxW7fjGrsmrw_oC1vcqxd2_ZwJrCQJM8XDquuFVuZDOCdGcDAh4roELCzw"
+  },
+  {
+    "id": 9,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/xJGhRkmPneAPDTOUWYM_oN5_jzr5EeaLXNqN9M_nmb84ELv-v8i8k9-X6_AuPSaa8_IyNy-l0i5j0RCgqMNU_mI_fxj_vioXL0IC",
+    "view_skin": "https://lh3.googleusercontent.com/UGuSsAqzqgnnQyBrebzPbfquywjHTf6VfQacRltvj5j__buXcrqZrtytciaf0Mlx7eh6Uf-b-Vpo22z2AUEXTAfB_y6fTAMwjE8"
+  },
+  {
+    "id": 10,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/W-o2hfnIGCKEqrTbe8DHxlWm3wnj4FPlGxsz9wIl0F_Ej_I4wpUdPG3X2wd2RQuxUSthy0HxXhtwvlEmcIyyRc8kQH6wiJhwcyk",
+    "view_skin": "https://lh3.googleusercontent.com/KG8bDNM6YCCW1EDEIQPK1BbxgMiCKP-_WsF2f9zMon64gmlfZOE_NhzTEpC299SOzR-GyJWkx1OP9QQqDJZ9Lf1QyZbzuKMQ5g"
+  },
+  {
+    "id": 11,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/SosLLLk7bc13X2o-f3xcS3XNuT-IPvAwGj1oJTMWPDF0NiCj9SbA7PLABG6ok1yEpER2DYQBlNlkXv4fbTcDX11u2b01x7aSL7g",
+    "view_skin": "https://lh3.googleusercontent.com/EiW3Rq0OJPfLYdqkqukt8hrC3MXq0dPvj7r9ZSdG9SLt8l7l_v-lMIMAGVLUs02eWdhBsoz7yBhEyE39shDhaRfaOZWy2HJZt8E"
+  },
+  {
+    "id": 12,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/KKyl3_F_VgvZjoFnja_2jX-KJvzjprLE6-D5a9S9z9lZFqO6szyfJbJ6Zc3Gy21Y5z72UWpHf-dOEePO9qCd4w",
+    "view_skin": "https://lh3.googleusercontent.com/QGMWFAI3KmnAsmY4AQJ5E5ToaeqkTenAe7Cv5evwA58GY9LGkNk2GwO5PN83aHLzkVtZymtHHOFIrA01kv76Jw"
+  },
+  {
+    "id": 13,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/CvkRsHyE3HWFJkjG_x7FwJpPOPWkxn98guyxcXo6BQ9Jz-94851614DgkQxEPJH4acRPd5zOkk7_wTnLb6EqjSuNQKaoAMawijUM",
+    "view_skin": "https://lh3.googleusercontent.com/xTt2mxNHCik2xsNkLT5i73kAAv9xi8DENQhjxxdBhXagVRn8UtN_27GivTZMZFFMdxhDUAvZgRzGLoS3KY9KXaKcP0-A6b9weFg"
+  },
+  {
+    "id": 14,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/jOdbosxE4eocjBpKt4JRHopK6FemJXJVXM0DpHFEwYadzQcsGt7DtKpUtE6_E0w_p8-x8l97RCjreDDaG3NgMby1YLxa3Gs45BiV",
+    "view_skin": "https://lh3.googleusercontent.com/OFnpWhX0hXjjKF3S9TgKbz5hcSHk8iji74HKEaSNQFz_Ip7-CTNFObZWHujcSQeJjnSToOy1-QpEcbrSS9oPDBl3eTzkZzpO8Kw"
+  },
+  {
+    "id": 15,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/22sW3t2T6PWXccy689Ugag4tEhrIQPFp5BCFMDvnuPHc2Ny3TTDkL--5mQkdfLnxJsXE2Jd-2OAl5vU3fyr4xy1W74t3cpt6jihm",
+    "view_skin": "https://lh3.googleusercontent.com/OwcLBlTwvxcNdz0KYXpCxYQg-1OjW4nIUP4NIVPXeaq9-IuWk8-Ksc-S3E9XUkNUoUFOIzowOwj0Gqx3nrIew0yfDwEniMrrL34"
+  },
+  {
+    "id": 16,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/xg9DJrC4ZR3O-bXosmVKJckeCKNvfxPKyS_D88l19SQEzzjNJDRdv6tP2LP-HsMlmggYWP-sA76X0PHp2sE7lfTomP_fLp6va4s",
+    "view_skin": "https://lh3.googleusercontent.com/Hmi3QUMdnJ5qjfV8ZyMuh_PxPUyYvKN8t_0eeEN27lrMIx0DLdezwlUiA_-1pwaoH8i68oCGfznwH7yhWsdF_c4ACz3c_JsF0mKL"
+  },
+  {
+    "id": 17,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/iC-20zQ8zGLumGAE8vdtoph3YcNwUi8JL1vKqBMcp8W1m-Jy9fepkJKnZX52KrbRBjgTTyTQ1BQrAF89hDwtHWIV7sp9N_rrDZA",
+    "view_skin": "https://lh3.googleusercontent.com/jS12vUj-a3Z0fyXvg3NpENfkOFik8b9l3ZAyusaj3Ez74XVvcyEZcB7A60jFrkdgYueUHdDCNI1wP0Vf1vohZ-tUJV9_HWl_SpM"
+  },
+  {
+    "id": 18,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/tND6sUzzwBkoBnto2DIRFtIDQjeWmGYDy-ilwm4s-VlpZcPfTAcOQ85pmx9iaXJ43EVaiNPd_Hf16MegHqbMs7RLYis0WI8lvkyp",
+    "view_skin": "https://lh3.googleusercontent.com/n9h-ArdakhR5MYe08DKD8zpZOeUG9U9Y_frrqKxjR5q11pgK9394-e7NWd5tI4Vgnc0VEonNC_njUtp4pO755WrZPLucWYuB_k0"
+  },
+  {
+    "id": 19,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/_5IkjGJc1GeZKWeDFXoslG7HNJ9NhFIHwYC6cPL_lFm2rsisao51TpGTiZMY9oKumbHn53v4YAnmbePhwF3eLlyFR4uyXB_zXA",
+    "view_skin": "https://lh3.googleusercontent.com/eyq3HbHVHxy4MXSm0D5Qwnjz3LbVPRTivRTPl8JlwZ1ADmpPmRAAkJbFZq_4WGox3rA1uFlDHe5v8uPQLsXFBlOSf0F5V1rBnA"
+  },
+  {
+    "id": 20,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/KKyl3_F_VgvZjoFnja_2jX-KJvzjprLE6-D5a9S9z9lZFqO6szyfJbJ6Zc3Gy21Y5z72UWpHf-dOEePO9qCd4w",
+    "view_skin": "https://lh3.googleusercontent.com/tvTZcwyvoL09g6-UKGVU0XaGMeJDRZClpsKsq6qHWk9ieHBhaUmJ8Cu7ujvXW2muF2NTSJ8sY1HKaVV_i8DoGMpvEww0RZpClQ"
+  },
+  {
+    "id": 21,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/GAgC4N4Bs9_5qjGJhEIRHQYp2OKU_oR7M4Kq6t2Yq0cTBJwUslxpSgxvmA6qmNhZxHCUp-eknQSZEyFLrTbUhEv2_ZL2_K4QG1Y",
+    "view_skin": "https://lh3.googleusercontent.com/hN7sWsjZlTK2SYwd6fokEMTO4V2wnd_OlZ7RX99JuRiZXX-WfzjxuNZ5MXZWIFPWeqSfkqeFJ1erKACF-1bvaSV-Pkx8eeXGrJI"
+  },
+  {
+    "id": 22,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/zwQQ8WXwDZOQtMcpbnInea0fobaZq52W_8cKpEIZ5iDuB5rdkul8LiAPFtsGDS2eUB4FRy3EcGxaW9KxfVI5jFJehCmpBYDUArCD",
+    "view_skin": "https://lh3.googleusercontent.com/HOD0yOtvFNsQN3jhVHuL7oU52g8klwqOXOpBjRFFgX56SeM4zhHB9SswnQ-6EYnihHEmGky0MfopSA2H6adlmvN1WyawYu4_5NY"
+  },
+  {
+    "id": 23,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/_vJBFDl7dBXL2-RLYa2XNhjscmfU0zlIruDecxnEhZiz6aayxLnKKosMwaNvVMzRclI284idRGAyK-BrpDLDI36vigAfy-NRK_c",
+    "view_skin": "https://lh3.googleusercontent.com/0ol4zH4Ni34Y9IkKbEp3jAPvBrurVIxbFyLlWDJot6wOg3NtHuNiNqUKaZA9m8QzyD-HYai6YM7I3XF3rG6DoTUWMsEiU2BhSQ"
+  },
+  {
+    "id": 24,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/xbpEyexe32zhnDT057gJXRzv84GwZKb3LNdDzNFM8S6XDHxrRrxi8KbqAyidBA3EhFxCoJFUA11IGS_IoGOMe9O4Gqtnn53zv3df",
+    "view_skin": "https://lh3.googleusercontent.com/-eh8OMRMKVDxGumX0E7Q9BWg7n9tSjz0cZ3dtKI2sEVbotdHLHPJyp4NrOH8r6PqQ_bfqKguJbPruKLsAyhb9pXFMel865RNmNLb"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
