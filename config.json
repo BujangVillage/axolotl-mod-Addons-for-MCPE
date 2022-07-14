@@ -28,8 +28,11 @@
       "applovin_native": "unitid",
       
       "ironsource_banner": "1215fccad",
-      "ironsource_inter": "1215fccad"
+      "ironsource_inter": "1215fccad",
       
+      "fan_banner":"YOUR_PLACEMENT_ID",
+      "fan_inter":"YOUR_PLACEMENT_ID",
+      "fan_native":"YOUR_PLACEMENT_ID"
       
     }
   ],
